@@ -1,0 +1,50 @@
+html {
+    margin: 0;
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  
+  #grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
+  #pink{
+    background: pink;
+  }
+  #btn{
+    background-color: #0b7b09;
+    padding: 5px;
+    border-radius: 15px;
+  }
+  footer{
+    background-color: #f8f9fa;
+    padding: 10px 0; 
+    text-align: center; 
+    position: fixed; 
+    bottom: 0; 
+    width: 100%; box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+  }
+  
